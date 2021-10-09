@@ -1,0 +1,40 @@
+{
+	"name": "express-typescript-restful-api-sample",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/ouardiYakoubAbdallah/express-typescript-restful-api-sample.git",
+	"author": "Yakoub <ouardi.yakoubabdallah@gmail.com>",
+	"license": "MIT",
+	"scripts": {
+		"start:dev": "nodemon src/app.ts"
+	},
+	"dependencies": {
+		"bcrypt": "^5.0.1",
+		"config": "^3.3.6",
+		"cors": "^2.8.5",
+		"dayjs": "^1.10.7",
+		"express": "^4.17.1",
+		"jsonwebtoken": "^8.5.1",
+		"lodash": "^4.17.21",
+		"mongoose": "^6.0.10",
+		"nanoid": "^3.1.29",
+		"pino": "^6.13.3",
+		"pino-pretty": "^7.0.1",
+		"yup": "^0.32.9"
+	},
+	"devDependencies": {
+		"@types/bcrypt": "^5.0.0",
+		"@types/body-parser": "^1.19.1",
+		"@types/config": "^0.0.39",
+		"@types/cors": "^2.8.12",
+		"@types/express": "^4.17.13",
+		"@types/jsonwebtoken": "^8.5.5",
+		"@types/lodash": "^4.14.175",
+		"@types/mongoose": "^5.11.97",
+		"@types/node": "^16.10.3",
+		"@types/pino": "^6.3.11",
+		"@types/yup": "^0.29.13",
+		"ts-node": "^10.2.1",
+		"typescript": "^4.4.3"
+	}
+}
