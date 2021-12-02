@@ -109,3 +109,4 @@ dist
 keys/
 .DS_Store
 static/
+package-lock.json

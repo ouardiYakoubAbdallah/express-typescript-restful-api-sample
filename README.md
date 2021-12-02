@@ -5,13 +5,10 @@ A simple REST API with Node.js, TypeScript, and MongoDB.
 ## Concepts
 
 - REST API principals
-
   - CRUD
-
   - HTTP methods
-  - What REST is and is not
-
 - JWT & refresh tokens
+- Request validation
 
 ## Technologies
 
